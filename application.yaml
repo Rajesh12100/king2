@@ -1,5 +1,3 @@
-application:
- name: PRODUCT
 eureka:
   instance:
     prefer-ip-address: true
